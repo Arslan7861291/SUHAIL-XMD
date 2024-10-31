@@ -74,10 +74,10 @@ module.exports = {
   VERSION : process.env.VERSION || "1.0.1-developement-x",
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ Muhammad Husnain bhatti® 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@GlobalTechInfo"),
  
-  author : process.env.PACK_AUTHER|| "Lovelywrites43💔🥀",
-  packname: process.env.PACK_NAME || "Lovelywrites43💔🥀",
-  botname : process.env.BOT_NAME  || "Muhammad Husnain bhatti",
-  ownername:process.env.OWNER_NAME|| "Muhammad Husnain bhatti",
+  author : process.env.PACK_AUTHER|| "ARAIN HACKER🥀",
+  packname: process.env.PACK_NAME || "ARAIN HACKER💔🥀",
+  botname : process.env.BOT_NAME  || "ARSLAN AK",
+  ownername:process.env.OWNER_NAME|| "ARSLAN AK",
 
 
   errorChat : process.env.ERROR_CHAT || "",
@@ -91,7 +91,7 @@ module.exports = {
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
 
-  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "private",
+  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "public",
   LANG: ( process.env.THEME ||  "SUHAIL"  ).toUpperCase(),
 
 
